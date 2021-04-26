@@ -1,12 +1,12 @@
 # redirector
-A simple extension for friends.
+A simple chrome extension for redirecting... for friends.
 
 ## How to add the extension to the google chrome
 First, clone the repository:  
 ```
 git clone git@github.com:parsaakbari1209/redirector.git
 ```
-Second, go to the url below in google chrome:  
+Second, go to the url below in the google chrome:  
 ```
 chrome://extensions
 ```
