@@ -1,0 +1,15 @@
+{
+    "name": "Trendhim",
+    "description": "An extension for friends",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "./icon.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ] 
+}
